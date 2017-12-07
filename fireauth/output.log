@@ -1,0 +1,30 @@
+nohup: ignoring input
+Connection established to mongodb://localhost:27017/games
+[0mGET /auth.html [36m304 [0m7.078 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.974 ms - -[0m
+[0mGET /sty.css [36m304 [0m1.964 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.984 ms - -[0m
+[0mGET /%7B%7Bteam.image%7D%7D [33m404 [0m330.457 ms - 1175[0m
+In Get Games
+[0mGET /stylesheets/firebase-logo.png [33m404 [0m46.924 ms - 1175[0m
+Query Worked
+[ { _id: 5a28c121a24266386be01829,
+    team1: 'BYU',
+    team2: 'UofU',
+    score1: 10,
+    score2: 0 } ]
+[0mGET /games [36m304 [0m54.164 ms - -[0m
+[0mGET /auth.html [36m304 [0m0.618 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.516 ms - -[0m
+[0mGET /sty.css [36m304 [0m0.249 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.232 ms - -[0m
+[0mGET /%7B%7Bteam.image%7D%7D [33m404 [0m35.969 ms - 1175[0m
+In Get Games
+Query Worked
+[ { _id: 5a28c121a24266386be01829,
+    team1: 'BYU',
+    team2: 'UofU',
+    score1: 10,
+    score2: 0 } ]
+[0mGET /games [36m304 [0m3.031 ms - -[0m
+[0mGET /stylesheets/firebase-logo.png [33m404 [0m22.551 ms - 1175[0m
